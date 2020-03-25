@@ -1,0 +1,14 @@
+backend in heroku link :
+
+https://todo-chat-app.herokuapp.com/
+
+-----------------------------------------------------------------------------------
+frontend in netlify link:
+
+https://5db89e6b7561d4019d5deac1--priceless-darwin-2b3f99.netlify.com/
+
+https://priceless-darwin-2b3f99.netlify.com
+-------------------------------------------------------------------------------------------
+
+https://www.freecodecamp.org/news/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b/
+
